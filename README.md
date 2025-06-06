@@ -10,13 +10,13 @@ They are available in /fabrication
 
 # PCB Showcase
 
-![YouTube](https://www.youtube.com/watch?Nv6MRNa2Yfs)
+[YouTube](https://www.youtube.com/watch?Nv6MRNa2Yfs)
 
 ## Photos
 ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/pi-tinker-hat/refs/heads/main/assets/schematic.png)
 
 ![PCB Editor](https://raw.githubusercontent.com/RadioactivePotato/pi-tinker-hat/refs/heads/main/assets/pcb.png)
 
-![PCB Front Preview](https://raw.githubusercontent.com/RadioactivePotato/pi-tinker-hat/refs/heads/main/assets/3dfont.png)
+![PCB Front Preview](https://raw.githubusercontent.com/RadioactivePotato/pi-tinker-hat/refs/heads/main/assets/3dfront.png)
 
 ![PCB Back Preview](https://raw.githubusercontent.com/RadioactivePotato/pi-tinker-hat/refs/heads/main/assets/3dback.png)
