@@ -10,7 +10,7 @@ They are available in /fabrication
 
 # PCB Showcase
 
-[YouTube](https://www.youtube.com/watch?Nv6MRNa2Yfs)
+[YouTube](https://www.youtube.com/watch?v=Nv6MRNa2Yfs)
 
 ## Photos
 ![Schematic](https://raw.githubusercontent.com/RadioactivePotato/pi-tinker-hat/refs/heads/main/assets/schematic.png)
